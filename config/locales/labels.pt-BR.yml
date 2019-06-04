@@ -1,0 +1,14 @@
+'pt-BR':
+   labels:
+     login: Login
+     remember_me: Lembrar de mim 
+     identify_yourself: Identifique-se
+     enter: Entrar
+     email: E-mail
+     password: senha
+     confirm-password: Confirmar senha 
+     message: Mensagem 
+     new_message: Nova Mensagem 
+     send_message_to: Enviar mensagem para %{name}
+     recipient: Destinatário 
+     subject: Assunto
